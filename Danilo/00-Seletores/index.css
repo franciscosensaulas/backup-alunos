@@ -1,0 +1,34 @@
+body{ 
+    color:aqua;
+    background-color:black;
+}
+
+h1, h2{ color:white;}
+
+#acesso-ao-site{color:yellow;
+text-decoration: none;
+background-color: blue;
+height: 30px;/*Altura*/
+display:inline-block;/*Mistura do display block e in line, é exibido na mesma linha que elementos inline, mas permite definir largura e altura como um elemento block*/
+width: 130px;/*Largura*/
+text-align:center;}/* Centralizador de texto*/
+
+#acesso-ao-site:hover{
+    color: brown;
+    background-color: white;
+    font-weight: bold;
+
+}
+
+.sobre-o-jogo-detalhe:hover{
+    cursor: e-resize;
+}
+
+/*Classe */
+.sobre-o-jogo-detalhe{
+    display:block;
+}
+
+.cor-roxo{
+    color: purple;
+}

@@ -1,0 +1,12 @@
+h1 {
+        color:blue;
+    }
+
+    p {color:brown}
+
+    img {width: 400px; /* Seletor de tag (elemento html)*/}
+
+    #logo-frontend{ width: 500px;}
+
+    body{
+        background-color:black}
